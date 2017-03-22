@@ -9,14 +9,7 @@ digoal
                                               
 ### 标签                                            
 PostgreSQL , 秒杀 , 裸秒 , ad lock                                                                                      
-                                              
-----                                            
-         
-### 双十一背后的技术系列文章
-[《聊一聊双十一背后的技术 - 物流, 动态路径规划》](https://yq.aliyun.com/articles/57857)  
-  
-[《聊一聊双十一背后的技术 - 分词和搜索》](https://yq.aliyun.com/articles/64240)  
-  
+
 [《聊一聊双十一背后的技术 - 不一样的秒杀技术, 裸秒》](https://yq.aliyun.com/articles/64351)  
   
 ## 背景
